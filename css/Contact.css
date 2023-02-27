@@ -1,0 +1,38 @@
+.wrapper
+{
+	margin:auto;
+	height:800px;
+	width:90%;
+	position:relative;
+	background-color: lavender;
+	opacity:0.90;
+
+}
+h1
+{
+	position:absolute;
+	bottom:80%;
+	left:28%;
+	text-align: center;
+	color:hotpink;
+	font-size: 50px;
+	font-family: serif;
+}
+p
+{
+	position:absolute;
+	color:blueviolet;
+	bottom:25%;
+	left:35%;
+	font-family: serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+form
+{
+	position:absolute;
+	top:90%;
+	left:40%;
+
+}
